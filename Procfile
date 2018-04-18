@@ -1,1 +1,1 @@
-web: gunicorn pybooks_code --log-file -
+web: python pybooks_code.py
